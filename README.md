@@ -6,8 +6,8 @@
 
 ### Nhúng trực tiếp bằng link
 
-> <!-- > <link rel="stylesheet"type="text/css" href="https://ogdp.github.io/font-apicon/css/style.css"/> -->
-> <!-- Thêm trước mỗi class "-ap + clsss"-->
+> <link rel="stylesheet"type="text/css" href="https://ogdp.github.io/font-apicon/css/style.css"/> 
+> Thêm trước mỗi class "-ap + clsss"
 >
 > **Steps 1:**
 > Download font from github
