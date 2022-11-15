@@ -12,7 +12,7 @@
 > **Steps 1:**
 > Download font from github
 
-> https://github.com/ogdp/font-apicon.git
+> https://ogdp.github.io/font-apicon
 
 **Steps 2:**
 
